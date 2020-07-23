@@ -1,0 +1,5 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+bash-bugaev-helper	/ehdd/fromwork/smsfinance/clear_db_dump/new_script/posix/bugaev-helper/README.md	/^# bash-bugaev-helper$/;"	c	language:Markdown
+usage	/ehdd/fromwork/smsfinance/clear_db_dump/new_script/posix/bugaev-helper/README.md	/^## usage$/;"	s	language:Markdown
+__bugaev_helper_clear_array	/ehdd/fromwork/smsfinance/clear_db_dump/new_script/posix/bugaev-helper/BugaevHelperImpl.sh	/^__bugaev_helper_clear_array() {$/;"	f	language:Sh
+__bugaev_helper_init	/ehdd/fromwork/smsfinance/clear_db_dump/new_script/posix/bugaev-helper/BugaevHelper.sh	/^__bugaev_helper_init() {$/;"	f	language:Sh
