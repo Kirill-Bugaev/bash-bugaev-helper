@@ -10,5 +10,6 @@ export BugaevHelper
 #
 # Unset all elements of specified array
 # @param $1 array
+# @return 1 if array not specified
 ##
 BugaevHelper["clearArray"]="__bugaev_helper_clear_array"
