@@ -7,7 +7,7 @@
 ```bash
 #!/bin/bash
 
-source bugaev-helper/BugaevHelper.sh
+source bash-bugaev-helper/BugaevHelper.sh
 helper=("${BugaevHelper[@]}")
 
 index_array=(128 256 512 1024)
